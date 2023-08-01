@@ -1,8 +1,13 @@
-# Mastering Data Fetching in React using SWR and TypeScript
+# ✨ Food Ordering ✨
 
-This repository contains the code for the article [Mastering Data Fetching in React using SWR and TypeScript](TODO: Replace with URL once article is published).
+Stack Teknologi:
 
-You can find the live demo of the application [here](TODO: Replace with URL once the app is deployed).
+- React
+- SWR
+- Typescript
+- Chakra UI
+- Tailwind
+- React Icons
 
 ## Getting Started
 
